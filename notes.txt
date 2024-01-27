@@ -1,0 +1,48 @@
+lec 1 
+
+typescript is basically used for type safety
+typescript is superset of javascript
+but it is not adding any more functionality to js it is just providing
+you to write js in more precise manner so you have less error in run time if there
+is any error you are shown the error while writing the code only
+infact all the code you write is compiled to js 
+writing js with more accurate manner it is not compulsory for every task if you have less code
+then it is not necessary to use typescript there
+typescript helps : much more powerful and error prone
+typescript stops all this behaviour
+2+"2" ->'22' 
+null+2->2
+undefined+2->NaN
+
+lec 2
+
+what typescript is not
+static checking is the only job that typescript does
+for eg i am trying to access an item which is not defined so if some one can give me a hint 
+that object does not exist obv it is much more easier
+it just analyze the code
+there might be case that your typescript might give you squiggle lines but that code might 
+work properly on js
+typescript is development tool
+it is a superset of js which it helps us to write better code with less problems with a 
+more scalable and maintainable code which helps to handle errors
+
+lec 3
+when understanding typescript concepts we are going to use gloabl system install
+when you work on react or angular projects there we require typescript config file
+additional settings you want and dont want
+tsc.cmd intro.ts  to create a js file of ts file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
